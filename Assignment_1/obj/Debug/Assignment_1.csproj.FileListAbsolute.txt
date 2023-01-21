@@ -1,0 +1,8 @@
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\bin\Debug\Assignment_1.exe.config
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\bin\Debug\Assignment_1.exe
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\bin\Debug\Assignment_1.pdb
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\obj\Debug\Assignment_1.csproj.SuggestedBindingRedirects.cache
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\obj\Debug\Assignment_1.exe
+U:\kevat2023\Windows-ohjelmointi\Assignment_1\obj\Debug\Assignment_1.pdb
