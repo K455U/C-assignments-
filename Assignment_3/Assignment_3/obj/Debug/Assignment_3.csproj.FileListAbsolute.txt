@@ -1,0 +1,8 @@
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.AssemblyReference.cache
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.SuggestedBindingRedirects.cache
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.CoreCompileInputs.cache
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe.config
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\bin\Debug\Assignment_3.pdb
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\obj\Debug\Assignment_3.exe
+E:\VAMK\Kevat 2023\Windows-ohjelmointi\Assignment_3\Assignment_3\obj\Debug\Assignment_3.pdb
